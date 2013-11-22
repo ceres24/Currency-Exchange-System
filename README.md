@@ -1,7 +1,7 @@
 Currency-Exchange-System
 ========================
 
-A Simple yet powerful Currency Exchange System made possible by Argie 
+A Simple yet powerful Currency Exchange System ( Forked from Argie's Work )
 
 Link: http://www.sourcecodester.com/php/4821/currency-exchange-system-using-phpmysql.html
 
